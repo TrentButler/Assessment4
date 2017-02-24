@@ -1,0 +1,8 @@
+c:\users\redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\bin\Debug\Form1.exe.config
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\bin\Debug\Form1.exe
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\bin\Debug\Form1.pdb
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\obj\Debug\Form1.exe
+C:\Users\Redtrent\documents\visual studio 2015\Projects\Assessment4\Form1\obj\Debug\Form1.pdb
